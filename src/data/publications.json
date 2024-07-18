@@ -1,0 +1,187 @@
+[
+    {
+        "title": "A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges",
+        "authors": ["jl", "cy", "bam"],
+        "imageName": "icse24.png",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)", 
+        "year": 2024,
+        "abbr": "ICSE 2024",
+        "urls": [{
+            "label": "Paper",
+            "url": "https://arxiv.org/pdf/2303.17125.pdf"
+        }],
+        "tags": [
+            "software engineering", "human-computer interaction"
+        ],
+        "highlight": true
+    },
+    {
+        "title": "(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs",
+        "authors": ["wm*", "cy*", "ck"],
+        "imageName": "cain24.png",
+        "venue": "International Conference on AI Engineering Software Engineering for AI (CAIN)", 
+        "year": 2024,
+        "abbr": "CAIN 2024",
+        "urls": [{
+            "label": "Paper",
+            "url": "papers/cain24.pdf"
+        }],
+        "tags": [
+            "software engineering", "large language models"
+        ]
+    },
+    {
+        "title": "Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling",
+        "authors": ["yax", "cy*", "bw", "yx"],
+        "venue": "IEEE Transactions on Software Engineering (TSE)", 
+        "year": 2024,
+        "abbr": "TSE 2024",
+        "urls": [{
+            "label": "Paper",
+            "url": "https://arxiv.org/pdf/2305.03955"
+        }],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
+        "title": "Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using LLMs",
+        "authors": ["cy", "rr", "rb", "gl", "ck", "tw"],
+        "imageName": "emnlp23.png",
+        "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)", 
+        "year": 2023,
+        "abbr": "EMNLP 2023",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/emnlp23.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/emnlp23-slides.pdf"
+            },
+            {
+                "label": "Poster",
+                "url": "slides/emnlp23-poster.pdf"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/malusamayo/Weaver"
+            },
+            {
+                "label": "Tweet",
+                "url": "https://twitter.com/cyyang3_u/status/1732922575616155796"
+            }
+        ],
+        "tags": [
+            "large language models", "model testing"
+        ],
+        "highlight": true
+    },
+    {
+        "title": "Capabilities for Better ML Engineering",
+        "authors": ["cy", "rb", "gl", "ck", "tw"],
+        "venue": "AAAI's Workshop on Artificial Intelligence Safety (SafeAI)", 
+        "year": 2023,
+        "abbr": "SafeAI 2023",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/safeai23.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/safeai23-slides.pdf"
+            },
+            {
+                "label": "Poster",
+                "url": "slides/safeai23-poster.pdf"
+            }
+        ],
+        "tags": [
+            "model testing"
+        ]
+    },
+    {
+        "title": "ExpressAPR: Efficient patch validation for java automated program repair systems",
+        "authors": ["yax", "cy*", "bw", "yx"],
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE) -- Tool Demo Track", 
+        "year": 2023,
+        "abbr": "ASE Demo 2023",
+        "urls": [{
+            "label": "Paper",
+            "url": "https://ieeexplore.ieee.org/abstract/document/10298419"
+        }],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
+        "title": "Data Leakage in Notebooks: Static Detection and Better Processes",
+        "authors": ["cy", "rb", "gl", "ck"],
+        "imageName": "ase22.png",
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "year": 2022,
+        "abbr": "ASE 2022",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/ase22.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/ase22-slides.pdf"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/malusamayo/leakage-analysis"
+            }
+        ],
+        "tags": [
+            "model evaluation", "static analysis"
+        ],
+        "highlight": true
+    },
+    {
+        "title": "Subtle Bugs Everywhere: Generating Documentation for Data Wrangling Code",
+        "authors": ["cy", "sz", "jg", "ck"],
+        "imageName": "ase21.png",
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "year": 2021,
+        "abbr": "ASE 2021",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/ase21.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/ase21-slides.pdf"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/malusamayo/notebooks-analysis"
+            }
+        ],
+        "tags": [
+            "model evaluation", "static analysis"
+        ],
+        "highlight": true
+    },
+    {
+        "title": "Accelerating Program Analyses in Datalog by Merging Library Facts",
+        "authors": ["yc", "cy", "xz", "yx", "ht", "xw", "lz"],
+        "venue": "International Static Analysis Symposium (SAS)", 
+        "year": 2021,
+        "abbr": "SAS 2021",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/sas21.pdf"
+            }
+        ],
+        "tags": [
+            "model evaluation", "static analysis"
+        ]
+    }
+]

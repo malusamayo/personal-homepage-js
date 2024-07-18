@@ -1,0 +1,69 @@
+{
+    "bam": {
+        "name": "Brad A. Myers",
+        "url": "https://www.cs.cmu.edu/~bam/"
+    },
+    "bw": {
+        "name": "Bo Wang",
+        "url": "https://wangbo15.github.io/"
+    },
+    "ck": {
+        "name": "Christian Kästner",
+        "url": "https://www.cs.cmu.edu/~ckaestne/"
+    },
+    "cy": {
+        "name": "Chenyang Yang"
+    },
+    "gl": {
+        "name": "Grace Lewis,",
+        "url": "https://www.andrew.cmu.edu/user/gritter/lewis.html"
+    },
+    "ht": {
+        "name": "Hao Tang"
+    },
+    "lz": {
+        "name": "Lu Zhang"
+    },
+    "jg": {
+        "name": "Jin L.C. Guo",
+        "url": "https://www.cs.mcgill.ca/~jguo/"
+    },
+    "jl": {
+        "name": "Jenny T. Liang",
+        "url": "https://jennyliang.me/"
+    },
+    "rr": {
+        "name": "Rishabh Rustogi"
+    },
+    "rb": {
+        "name": "Rachel A. Brower-Sinning"
+    },
+    "sz": {
+        "name": "Shurui Zhou",
+        "url": "https://www.eecg.utoronto.ca/~shuruiz/"
+    },
+    "tw": {
+        "name": "Tongshuang Wu",
+        "url": "https://www.cs.cmu.edu/~sherryw/"
+    },
+    "wm": {
+        "name": "Wanqin Ma"
+    },
+    "yax": {
+        "name": "Yuan-An Xiao"
+    },
+    "xw": {
+        "name": "Xiaoyin Wang"
+    },
+    "xz": {
+        "name": "Xin Zhang",
+        "url": "https://xinpl.github.io/"
+    },
+    "yc": {
+        "name": "Yifan Chen"
+    },
+    "yx": {
+        "name": "Yingfei Xiong",
+        "url": "https://xiongyingfei.github.io/"
+    }
+}
