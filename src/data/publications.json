@@ -1,15 +1,31 @@
 [
     {
+        "title": "What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing",
+        "authors": ["cy", "yh", "gl", "tw", "ck"],
+        "imageName": "ase24.png",
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "year": 2024,
+        "abbr": "ASE 2024",
+        "urls": [
+        ],
+        "tags": [
+            "software engineering" 
+        ],
+        "highlight": true
+    },
+    {
         "title": "A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges",
         "authors": ["jl", "cy", "bam"],
         "imageName": "icse24.png",
         "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)", 
         "year": 2024,
         "abbr": "ICSE 2024",
-        "urls": [{
-            "label": "Paper",
-            "url": "https://arxiv.org/pdf/2303.17125.pdf"
-        }],
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/pdf/2303.17125.pdf"
+            }
+        ],
         "tags": [
             "software engineering", "human-computer interaction"
         ],
@@ -22,24 +38,32 @@
         "venue": "International Conference on AI Engineering Software Engineering for AI (CAIN)", 
         "year": 2024,
         "abbr": "CAIN 2024",
-        "urls": [{
-            "label": "Paper",
-            "url": "papers/cain24.pdf"
-        }],
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/cain24.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/cain24-slides.pdf"
+            }
+        ],
         "tags": [
             "software engineering", "large language models"
         ]
     },
     {
         "title": "Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling",
-        "authors": ["yax", "cy*", "bw", "yx"],
+        "authors": ["yax", "cy", "bw", "yx"],
         "venue": "IEEE Transactions on Software Engineering (TSE)", 
         "year": 2024,
         "abbr": "TSE 2024",
-        "urls": [{
-            "label": "Paper",
-            "url": "https://arxiv.org/pdf/2305.03955"
-        }],
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/pdf/2305.03955"
+            }
+        ],
         "tags": [
             "software engineering"
         ]
