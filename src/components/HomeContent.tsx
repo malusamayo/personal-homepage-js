@@ -7,7 +7,7 @@ import Education from './Education';
 const HomeContent = () => (
     <React.Fragment>
         <div>
-                <p> I am a third-year PhD student in <a href="https://s3d.cmu.edu/" target="_blank">Software and Societal Systems Department</a>, <a href="http://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>,
+                <p> I am a fourth-year PhD student in <a href="https://s3d.cmu.edu/" target="_blank">Software and Societal Systems Department</a>, <a href="http://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>,
 					advised by <a href="https://www.cs.cmu.edu/~ckaestne/">Christian Kästner</a> and <a href="https://www.cs.cmu.edu/~sherryw/">Sherry Tongshuang Wu</a>.
 				</p>
                 <p>
