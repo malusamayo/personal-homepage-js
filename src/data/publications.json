@@ -7,6 +7,14 @@
         "year": 2024,
         "abbr": "ASE 2024",
         "urls": [
+            {
+                "label": "Paper",
+                "url": "papers/ase24.pdf"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/malusamayo/SemSlicer"
+            }
         ],
         "tags": [
             "software engineering" 
