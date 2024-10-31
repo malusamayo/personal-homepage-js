@@ -12,6 +12,10 @@
                 "url": "papers/ase24.pdf"
             },
             {
+                "label": "Slides",
+                "url": "slides/ase24-slides.pdf"
+            },
+            {
                 "label": "GitHub",
                 "url": "https://github.com/malusamayo/SemSlicer"
             }
