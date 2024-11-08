@@ -1,5 +1,23 @@
 [
     {
+        "title": "Orbit: A Framework for Designing and Evaluating Multi-objective Rankers",
+        "authors": ["cy", "tx", "ms", "ck", "tw"],
+        "imageName": "orbit24.png",
+        "venue": "", 
+        "year": 2024,
+        "abbr": "arXiv",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/pdf/2411.04798"
+            }
+        ],
+        "tags": [
+            "human-computer interaction"
+        ],
+        "highlight": true
+    },
+    {
         "title": "What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing",
         "authors": ["cy", "yh", "gl", "tw", "ck"],
         "imageName": "ase24.png",

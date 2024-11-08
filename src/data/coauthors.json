@@ -32,6 +32,9 @@
         "name": "Jenny T. Liang",
         "url": "https://jennyliang.me/"
     },
+    "ms": {
+        "name": "Michael Shavlovsky"
+    },
     "rr": {
         "name": "Rishabh Rustogi"
     },
@@ -46,6 +49,10 @@
         "name": "Tongshuang Wu",
         "url": "https://www.cs.cmu.edu/~sherryw/"
     },
+    "tx": {
+        "name": "Tesi Xiao",
+        "url": "https://tesixiao.github.io/"
+    },
     "wm": {
         "name": "Wanqin Ma"
     },
@@ -53,7 +60,8 @@
         "name": "Yuan-An Xiao"
     },
     "yh": {
-        "name": "Yining Hong"
+        "name": "Yining Hong",
+        "url": "https://hyn0027.github.io/"
     },
     "xw": {
         "name": "Xiaoyin Wang"
