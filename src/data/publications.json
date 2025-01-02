@@ -3,9 +3,9 @@
         "title": "Orbit: A Framework for Designing and Evaluating Multi-objective Rankers",
         "authors": ["cy", "tx", "ms", "ck", "tw"],
         "imageName": "orbit24.png",
-        "venue": "", 
-        "year": 2024,
-        "abbr": "arXiv",
+        "venue": "The ACM Conference on Intelligent User Interfaces (IUI)", 
+        "year": 2025,
+        "abbr": "IUI 2025",
         "urls": [
             {
                 "label": "Paper",
