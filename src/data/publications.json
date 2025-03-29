@@ -9,7 +9,11 @@
         "urls": [
             {
                 "label": "Paper",
-                "url": "https://arxiv.org/pdf/2411.04798"
+                "url": "papers/iui25.pdf"
+            },
+            {
+                "label": "Slides",
+                "url": "slides/iui25-slides.pdf"
             }
         ],
         "tags": [
