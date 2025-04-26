@@ -14,12 +14,28 @@
     "cy": {
         "name": "Chenyang Yang"
     },
+    "dy": {
+        "name": "Diyi Yang",
+        "url": "https://cs.stanford.edu/~diyiy/"
+    },
     "gl": {
         "name": "Grace Lewis",
         "url": "https://www.andrew.cmu.edu/user/gritter/lewis.html"
     },
+    "hs": {
+        "name": "Hua Shen",
+        "url": "https://hua-shen.org/"
+    },
+    "hz": {
+        "name": "Haiyi Zhu",
+        "url": "https://haiyizhu.com/"
+    },
     "ht": {
         "name": "Hao Tang"
+    },
+    "kk": {
+        "name": "Kenneth Koedinger",
+        "url": "https://pact.cs.cmu.edu/koedinger.html"
     },
     "lz": {
         "name": "Lu Zhang"
@@ -35,11 +51,19 @@
     "ms": {
         "name": "Michael Shavlovsky"
     },
+    "qm": {
+        "name": "Qianou Ma",
+        "url": "https://qianouma.com/"
+    },
     "rr": {
         "name": "Rishabh Rustogi"
     },
     "rb": {
         "name": "Rachel A. Brower-Sinning"
+    },
+    "rp": {
+        "name": "Rohan Padhye",
+        "url": "https://rohan.padhye.org/"
     },
     "sz": {
         "name": "Shurui Zhou",
@@ -53,8 +77,19 @@
         "name": "Tesi Xiao",
         "url": "https://tesixiao.github.io/"
     },
+    "vv": {
+        "name": "Vasudev Vikram",
+        "url": "https://vasumv.github.io/"
+    },
+    "wp": {
+        "name": "Weirui Peng"
+    },
     "wm": {
         "name": "Wanqin Ma"
+    },
+    "xrz": {
+        "name": "Xinran Zhao",
+        "url": "https://colinzhaoust.github.io/"
     },
     "yax": {
         "name": "Yuan-An Xiao"

@@ -33,16 +33,22 @@ const ResearchProject = (props: ResearchProjectData) => {
 const getCoauthorData = (keys?: string[]) => {
     const data: any[] = [];
     keys?.forEach((key: string) => {
+        console.log(key);
         const tempKey = key.replace('*', '')
         const hasAsterisk = key.endsWith('*')
-        if (coauthorData[tempKey] && coauthorData[tempKey].url) {
-            data.push(<a href={coauthorData[tempKey].url} target="_blank" rel="noreferrer">{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</a>)
-            data.push(<React.Fragment>, </React.Fragment>)
-        } else if (tempKey === 'cy') {
-            data.push(<Bold>{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</Bold>)
-            data.push(<React.Fragment>, </React.Fragment>)
+        if (coauthorData[tempKey]) {
+            if (coauthorData[tempKey].url) {
+                data.push(<a href={coauthorData[tempKey].url} target="_blank" rel="noreferrer">{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</a>)
+                data.push(<React.Fragment>, </React.Fragment>)
+            } else if (tempKey === 'cy') {
+                data.push(<Bold>{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</Bold>)
+                data.push(<React.Fragment>, </React.Fragment>)
+            } else {
+                data.push(<React.Fragment>{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</React.Fragment>)
+                data.push(<React.Fragment>, </React.Fragment>)
+            }
         } else {
-            data.push(<React.Fragment>{coauthorData[tempKey].name}{hasAsterisk ? '*' : ''}</React.Fragment>)
+            data.push(<React.Fragment>{tempKey}{hasAsterisk ? '*' : ''}</React.Fragment>)
             data.push(<React.Fragment>, </React.Fragment>)
         }
     })

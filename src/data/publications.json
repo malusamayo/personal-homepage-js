@@ -1,9 +1,41 @@
 [
     {
+        "title": "What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use",
+        "authors": [
+            "qm",
+            "wp",
+            "cy",
+            "hs",
+            "kk",
+            "tw"
+        ],
+        "imageName": "tochi25.jpg",
+        "venue": "ACM Transactions on Computer-Human Interaction (TOCHI)",
+        "year": 2025,
+        "abbr": "TOCHI 2025",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/abs/2409.08775"
+            }
+        ],
+        "tags": [
+            "software engineering",
+            "large language models",
+            "human-computer interaction"
+        ]
+    },
+    {
         "title": "Orbit: A Framework for Designing and Evaluating Multi-objective Rankers",
-        "authors": ["cy", "tx", "ms", "ck", "tw"],
+        "authors": [
+            "cy",
+            "tx",
+            "ms",
+            "ck",
+            "tw"
+        ],
         "imageName": "orbit24.png",
-        "venue": "The ACM Conference on Intelligent User Interfaces (IUI)", 
+        "venue": "The ACM Conference on Intelligent User Interfaces (IUI)",
         "year": 2025,
         "abbr": "IUI 2025",
         "urls": [
@@ -22,10 +54,112 @@
         "highlight": true
     },
     {
+        "title": "SPHERE: An Evaluation Card for Human-AI Systems",
+        "authors": [
+            "qm",
+            "Dora Zhao",
+            "xrz",
+            "Chenglei Si",
+            "cy",
+            "Ryan Louie",
+            "Ehud Reiter",
+            "dy",
+            "tw"
+          ],
+        "venue": "arXiv",
+        "year": 2025,
+        "abbr": "arXiv",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/abs/2504.07971"
+            },
+            {
+                "label": "Website",
+                "url": "https://sphere-eval.github.io/"
+            }
+        ],
+        "tags": [
+            "large language models",
+            "human-computer interaction"
+        ]
+    },
+    {
+        "title": "LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs",
+        "authors": [
+            "tw",
+            "hz",
+            "Maya Albayrak",
+            "Alexis Axon",
+            "Amanda Bertsch",
+            "Wenxing Deng",
+            "Ziqi Ding",
+            "Bill Guo",
+            "Sireesh Gururaja",
+            "Tzu-Sheng Kuo",
+            "jl",
+            "Ryan Liu",
+            "Ihita Mandal",
+            "Jeremiah Milbauer",
+            "Xiaolin Ni",
+            "Namrata Padmanabhan",
+            "Subhashini Ramkumar",
+            "Alexis Sudjianto",
+            "Jordan Taylor",
+            "Ying-Jui Tseng",
+            "Patricia Vaidos",
+            "Zhijin Wu",
+            "Wei Wu",
+            "cy"
+        ],
+        "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI)",
+        "year": 2025,
+        "abbr": "CHI Case Study 2025",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/abs/2307.10168"
+            }
+        ],
+        "tags": [
+            "large language models",
+            "human-computer interaction"
+        ]
+    },
+    {
+        "title": "Differential Performance Fuzzing of Configuration Options",
+        "authors": [
+            "Haesue Baik",
+            "cy",
+            "vv",
+            "Pooyan Jamshidi",
+            "rp",
+            "ck"
+        ],
+        "venue": "International Workshop on Search-Based and Fuzz Testing (SBFT)",
+        "year": 2025,
+        "abbr": "SBFT 2025",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://www.cs.cmu.edu/~ckaestne/pdf/sbft25.pdf"
+            }
+        ],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
         "title": "What Is Wrong with My Model? Identifying Systematic Problems with Semantic Data Slicing",
-        "authors": ["cy", "yh", "gl", "tw", "ck"],
+        "authors": [
+            "cy",
+            "yh",
+            "gl",
+            "tw",
+            "ck"
+        ],
         "imageName": "ase24.png",
-        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)",
         "year": 2024,
         "abbr": "ASE 2024",
         "urls": [
@@ -43,15 +177,19 @@
             }
         ],
         "tags": [
-            "software engineering" 
+            "software engineering"
         ],
         "highlight": true
     },
     {
         "title": "A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges",
-        "authors": ["jl", "cy", "bam"],
+        "authors": [
+            "jl",
+            "cy",
+            "bam"
+        ],
         "imageName": "icse24.png",
-        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)", 
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
         "year": 2024,
         "abbr": "ICSE 2024",
         "urls": [
@@ -61,15 +199,20 @@
             }
         ],
         "tags": [
-            "software engineering", "human-computer interaction"
+            "software engineering",
+            "human-computer interaction"
         ],
         "highlight": true
     },
     {
         "title": "(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs",
-        "authors": ["wm*", "cy*", "ck"],
+        "authors": [
+            "wm*",
+            "cy*",
+            "ck"
+        ],
         "imageName": "cain24.png",
-        "venue": "International Conference on AI Engineering Software Engineering for AI (CAIN)", 
+        "venue": "International Conference on AI Engineering Software Engineering for AI (CAIN)",
         "year": 2024,
         "abbr": "CAIN 2024",
         "urls": [
@@ -83,13 +226,19 @@
             }
         ],
         "tags": [
-            "software engineering", "large language models"
+            "software engineering",
+            "large language models"
         ]
     },
     {
         "title": "Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling",
-        "authors": ["yax", "cy", "bw", "yx"],
-        "venue": "IEEE Transactions on Software Engineering (TSE)", 
+        "authors": [
+            "yax",
+            "cy",
+            "bw",
+            "yx"
+        ],
+        "venue": "IEEE Transactions on Software Engineering (TSE)",
         "year": 2024,
         "abbr": "TSE 2024",
         "urls": [
@@ -104,9 +253,16 @@
     },
     {
         "title": "Beyond Testers' Biases: Guiding Model Testing with Knowledge Bases using LLMs",
-        "authors": ["cy", "rr", "rb", "gl", "ck", "tw"],
+        "authors": [
+            "cy",
+            "rr",
+            "rb",
+            "gl",
+            "ck",
+            "tw"
+        ],
         "imageName": "emnlp23.png",
-        "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)", 
+        "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)",
         "year": 2023,
         "abbr": "EMNLP 2023",
         "urls": [
@@ -132,14 +288,21 @@
             }
         ],
         "tags": [
-            "large language models", "model testing"
+            "large language models",
+            "model testing"
         ],
         "highlight": true
     },
     {
         "title": "Capabilities for Better ML Engineering",
-        "authors": ["cy", "rb", "gl", "ck", "tw"],
-        "venue": "AAAI's Workshop on Artificial Intelligence Safety (SafeAI)", 
+        "authors": [
+            "cy",
+            "rb",
+            "gl",
+            "ck",
+            "tw"
+        ],
+        "venue": "AAAI's Workshop on Artificial Intelligence Safety (SafeAI)",
         "year": 2023,
         "abbr": "SafeAI 2023",
         "urls": [
@@ -162,23 +325,35 @@
     },
     {
         "title": "ExpressAPR: Efficient patch validation for java automated program repair systems",
-        "authors": ["yax", "cy*", "bw", "yx"],
-        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE) -- Tool Demo Track", 
+        "authors": [
+            "yax",
+            "cy*",
+            "bw",
+            "yx"
+        ],
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE) -- Tool Demo Track",
         "year": 2023,
         "abbr": "ASE Demo 2023",
-        "urls": [{
-            "label": "Paper",
-            "url": "https://ieeexplore.ieee.org/abstract/document/10298419"
-        }],
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://ieeexplore.ieee.org/abstract/document/10298419"
+            }
+        ],
         "tags": [
             "software engineering"
         ]
     },
     {
         "title": "Data Leakage in Notebooks: Static Detection and Better Processes",
-        "authors": ["cy", "rb", "gl", "ck"],
+        "authors": [
+            "cy",
+            "rb",
+            "gl",
+            "ck"
+        ],
         "imageName": "ase22.png",
-        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)",
         "year": 2022,
         "abbr": "ASE 2022",
         "urls": [
@@ -196,15 +371,21 @@
             }
         ],
         "tags": [
-            "model evaluation", "static analysis"
+            "model evaluation",
+            "static analysis"
         ],
         "highlight": true
     },
     {
         "title": "Subtle Bugs Everywhere: Generating Documentation for Data Wrangling Code",
-        "authors": ["cy", "sz", "jg", "ck"],
+        "authors": [
+            "cy",
+            "sz",
+            "jg",
+            "ck"
+        ],
         "imageName": "ase21.png",
-        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)", 
+        "venue": "IEEE/ACM International Conference on Automated Software Engineering (ASE)",
         "year": 2021,
         "abbr": "ASE 2021",
         "urls": [
@@ -222,14 +403,23 @@
             }
         ],
         "tags": [
-            "model evaluation", "static analysis"
+            "model evaluation",
+            "static analysis"
         ],
         "highlight": true
     },
     {
         "title": "Accelerating Program Analyses in Datalog by Merging Library Facts",
-        "authors": ["yc", "cy", "xz", "yx", "ht", "xw", "lz"],
-        "venue": "International Static Analysis Symposium (SAS)", 
+        "authors": [
+            "yc",
+            "cy",
+            "xz",
+            "yx",
+            "ht",
+            "xw",
+            "lz"
+        ],
+        "venue": "International Static Analysis Symposium (SAS)",
         "year": 2021,
         "abbr": "SAS 2021",
         "urls": [
@@ -239,7 +429,8 @@
             }
         ],
         "tags": [
-            "model evaluation", "static analysis"
+            "model evaluation",
+            "static analysis"
         ]
     }
 ]
