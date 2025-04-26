@@ -33,7 +33,6 @@ const ResearchProject = (props: ResearchProjectData) => {
 const getCoauthorData = (keys?: string[]) => {
     const data: any[] = [];
     keys?.forEach((key: string) => {
-        console.log(key);
         const tempKey = key.replace('*', '')
         const hasAsterisk = key.endsWith('*')
         if (coauthorData[tempKey]) {
