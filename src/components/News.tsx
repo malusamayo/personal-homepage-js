@@ -14,7 +14,7 @@ const News = () => (
     <React.Fragment>
         {hasData(newsData) && 
             <React.Fragment>
-                <h3>Selected Publications</h3>
+                <h3>Selected Work</h3>
                 <ResearchProjectsContainer>
                                             {filteredPublications
                                                 .map((e: ResearchProjectData) => {
