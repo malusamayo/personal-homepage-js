@@ -1,5 +1,29 @@
 [
     {
+        "title": "Designing Abandabot: When Does Open Source Dependency Abandonment Matter?",
+        "authors": [
+            "Courtney Miller",
+            "Hao He",
+            "Weigen Chen",
+            "Elizabeth Lin",
+            "cy",
+            "Bogdan Vasilescu",
+            "ck"
+        ],
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "year": 2026,
+        "abbr": "ICSE 2026",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://courtney-e-miller.github.io/papers/designingAbandabot.pdf"
+            }
+        ],
+        "tags": [
+            "software engineering"
+        ]
+    },
+    {
         "title": "What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts",
         "authors": [
             "cy",
@@ -24,6 +48,31 @@
             "large language models"
         ],
         "highlight": true
+    },
+    {
+        "title": "cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree",
+        "authors": [
+            "Yilin Zhang",
+            "xrz",
+            "Zora Zhiruo Wang",
+            "cy",
+            "Jiayi Wei",
+            "tw"
+        ],
+        "imageName": "emnlp25.png",
+        "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        "year": 2025,
+        "abbr": "EMNLP 2025",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/pdf/2506.15655"
+            }
+        ],
+        "tags": [
+            "software engineering",
+            "large language models"
+        ]
     },
     {
         "title": "What Should We Engineer in Prompts? Training Humans in Requirement-Driven LLM Use",
