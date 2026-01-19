@@ -1,5 +1,30 @@
 [
     {
+        "title": "\"I Don't Think RAI Applies to My Model\" -- Engaging Non-champions with Sticky Stories for Responsible AI Work",
+        "authors": [
+            "nn",
+            "cy",
+            "Yanxin Chen",
+            "Wesley Hanwen Deng",
+            "Ken Holstein",
+            "Motahhare Eslami",            
+            "ck"
+        ],
+        "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI)",
+        "year": 2026,
+        "abbr": "CHI 2026",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/abs/2509.22858"
+            }
+        ],
+        "tags": [
+            "human-computer interaction",
+            "large language models"
+        ]
+    },
+    {
         "title": "Designing Abandabot: When Does Open Source Dependency Abandonment Matter?",
         "authors": [
             "Courtney Miller",
