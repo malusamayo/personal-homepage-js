@@ -7,9 +7,10 @@
             "Yanxin Chen",
             "Wesley Hanwen Deng",
             "Ken Holstein",
-            "Motahhare Eslami",            
+            "Motahhare Eslami",
             "ck"
         ],
+        "imageName": "chi26.png",
         "venue": "ACM CHI Conference on Human Factors in Computing Systems (CHI)",
         "year": 2026,
         "abbr": "CHI 2026",
@@ -22,7 +23,9 @@
         "tags": [
             "human-computer interaction",
             "large language models"
-        ]
+        ],
+        "awards": ["Best Paper"],
+        "highlight": true
     },
     {
         "title": "Designing Abandabot: When Does Open Source Dependency Abandonment Matter?",

@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Tag } from 'antd';
 import { hasData, Bold, Italic, ResearchProjectData } from './shared'; 
 import { PlaySquareFilled, FilePdfOutlined, LaptopOutlined, GlobalOutlined, GithubFilled, FundProjectionScreenOutlined } from '@ant-design/icons';
 
@@ -19,7 +18,7 @@ const ResearchProject = (props: ResearchProjectData) => {
             }
             <div>
                 <ResearchProjectMetadata>
-                    <h3>{props.title} {hasData(props.awards) && props.awards?.map((e) => <Tag color='purple'>{e}</Tag>)} </h3>
+                    <h3>{props.title} {hasData(props.awards) && props.awards?.map((e) => <AwardBadge key={e}>🏆 {e}</AwardBadge>)} </h3>
                     {hasData(props.authors) && <p>{getCoauthorData(props.authors)}</p>}
                     {props.venue && props.year && <p><Italic>{props.venue}</Italic></p>}
                     <p style={{"marginTop": "8px"}}>{props.description}</p>
@@ -85,6 +84,13 @@ const getUrlData = (urls?: {label: string, url: string}[]) => {
     
     return data;
 }
+
+const AwardBadge = styled.span`
+    font-size: 0.8em;
+    font-weight: 450;
+    color: #c0392b;
+    margin-left: 6px;
+`
 
 const ResearchProjectMetadata = styled.div`
     margin-top: -20px;
