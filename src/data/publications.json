@@ -12,7 +12,7 @@
         "imageName": "acl26.png",
         "venue": "Findings of the Annual Meeting of Association for Computational Linguistics (ACL)",
         "year": 2026,
-        "abbr": "ACL 2026",
+        "abbr": "ACL Findings 2026",
         "urls": [
             {
                 "label": "Paper",
@@ -90,7 +90,7 @@
         "imageName": "emnlp25.png",
         "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)",
         "year": 2025,
-        "abbr": "EMNLP 2025",
+        "abbr": "EMNLP Findings 2025",
         "urls": [
             {
                 "label": "Paper",
@@ -172,7 +172,7 @@
         "imageName": "acl25.png",
         "venue": "Findings of the Annual Meeting of Association for Computational Linguistics (ACL)",
         "year": 2025,
-        "abbr": "ACL 2025",
+        "abbr": "ACL Findings 2025",
         "urls": [
             {
                 "label": "Paper",
@@ -368,7 +368,7 @@
         "imageName": "emnlp23.png",
         "venue": "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)",
         "year": 2023,
-        "abbr": "EMNLP 2023",
+        "abbr": "EMNLP Findings 2023",
         "urls": [
             {
                 "label": "Paper",
