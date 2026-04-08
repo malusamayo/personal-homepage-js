@@ -28,7 +28,7 @@ const Header = (props: { page: string }) => {
     return (
         <React.Fragment>
             <HeaderContainer>
-                <Photo src="images/icon.jpg"/>
+                <Photo src="images/icon26.jpg"/>
                 <Info>
                     <h1>Chenyang Yang
                     <Pronounciation>
