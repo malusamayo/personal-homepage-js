@@ -1,5 +1,29 @@
 [
     {
+        "title": "Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation",
+        "authors": [
+            "cy",
+            "xrz",
+            "tw",
+            "ck"
+        ],
+        "imageName": "arxiv26.png",
+        "venue": "",
+        "year": 2026,
+        "abbr": "arXiv 2026",
+        "urls": [
+            {
+                "label": "Paper",
+                "url": "https://arxiv.org/abs/2607.08938"
+            }
+        ],
+        "tags": [
+            "software engineering",
+            "llm agents"
+        ],
+        "highlight": true
+    },
+    {
         "title": "What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts",
         "authors": [
             "cy",
